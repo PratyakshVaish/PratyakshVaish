@@ -1,9 +1,13 @@
 
-## 👤 About Me
+##  About Me
 
-I am an aspiring **Software Development Engineer** and a third-year Computer Science Engineering student at DIT University. With a core focus on **Full-Stack Development** and **Cybersecurity**, I build secure, high-performance web applications that balance robust backend systems with seamless user interfaces.
+ About Me
 
-My technical expertise spans across designing secure RESTful API architectures, auditing codebases for OWASP Top 10 vulnerabilities, and implementing robust role-based access control models. Driven by a product-engineering mindset, I continuously optimize systems for scalability and data protection, while incorporating emerging AI/ML paradigms to power intelligent services.
+ Passionate about building modern and scalable web applications.
+
+ Cybersecurity enthusiast exploring the world of secure systems and digital protection.
+
+ Currently improving my skills in Full Stack Development, Java, DSA, and Backend Engineering.
 
 ### 🚀 Open To
 * **SDE Internships & Co-op Roles**
