@@ -15,11 +15,6 @@
   <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/normal-badge/?username=PratyakshVaish&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Views" />
-  <img src="https://img.shields.io/github/followers/PratyakshVaish?style=flat-square&color=8B5CF6&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/PratyakshVaish?style=flat-square&color=8B5CF6&label=Stars" alt="Stars" />
-</p>
 
 ---
 
