@@ -1,22 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=250&section=header&text=PRATYAKSH%20VAISH&fontSize=50&fontAlignY=35&animation=fadeIn&theme=dark" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Cybersecurity-Focused+Developer;Full-Stack+Engineer;SDE+Intern+Aspirant;DSA+%26+System+Design+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.dituniversity.edu.in/"><img src="https://img.shields.io/badge/Education-DIT%20University-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="Education" /></a>
-  <a href="https://maps.google.com/?q=Dehradun"><img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/pratyaksh-vaish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pratyaksh2346@gmail.com"><img src="https://img.shields.io/badge/Email-pratyaksh2346%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-
----
 
 ## 👤 About Me
 
