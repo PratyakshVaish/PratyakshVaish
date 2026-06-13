@@ -9,16 +9,16 @@
 <p align="center">
   <a href="https://www.dituniversity.edu.in/"><img src="https://img.shields.io/badge/Education-DIT%20University-8B5CF6?style=flat-square&logo=academia&logoColor=white" alt="Education" /></a>
   <a href="https://maps.google.com/?q=Dehradun"><img src="https://img.shields.io/badge/Location-Dehradun%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" /></a>
-  <a href="https://github.com/pratyaksh2346"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=flat-square&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/pratyaksh-vaish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:pratyaksh2346@gmail.com"><img src="https://img.shields.io/badge/Email-pratyaksh2346%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/pratyaksh2346"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=pratyaksh2346&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Views" />
-  <img src="https://img.shields.io/github/followers/pratyaksh2346?style=flat-square&color=8B5CF6&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/pratyaksh2346?style=flat-square&color=8B5CF6&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/normal-badge/?username=PratyakshVaish&color=8B5CF6&style=flat-square&label=Profile+Views" alt="Views" />
+  <img src="https://img.shields.io/github/followers/PratyakshVaish?style=flat-square&color=8B5CF6&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/PratyakshVaish?style=flat-square&color=8B5CF6&label=Stars" alt="Stars" />
 </p>
 
 ---
@@ -73,7 +73,7 @@ A complete, secure user registration and login gateway utilizing the MERN stack.
 | **Performance** | Password verification <100ms; token parsing <5ms |
 | **Security** | HTTP-only cookies, token-based verification, strict CORS policies |
 | **Impact** | Establishes a highly reusable security baseline for multi-tenant SaaS structures |
-| **Repository** | [SecureAuth-MERN](https://github.com/pratyaksh2346/secureauth-mern) |
+| **Repository** | [SecureAuth-MERN](https://github.com/PratyakshVaish/secureauth-mern) |
 
 #### Technical Overview
 The project secures HTTP transmission by storing session tokens in HTTP-only, secure, SameSite cookies to mitigate Cross-Site Scripting (XSS) and Session Hijacking. Passwords are securely hashed using bcrypt. Implementations include input sanitization middleware to mitigate threat vectors such as NoSQL injection.
@@ -94,7 +94,7 @@ A robust entry point to secure, monitor, and route modern web-service transactio
 | **Performance** | Session rate checking and token validation in <2ms using memory database caching |
 | **Security** | Automatic security header insertion, rate limiting, payload validation |
 | **Impact** | Prevents resource-exhaustion vectors and protects underlying web-services |
-| **Repository** | [SafeGate Gateway](https://github.com/pratyaksh2346/safegate-gateway) |
+| **Repository** | [SafeGate Gateway](https://github.com/PratyakshVaish/safegate-gateway) |
 
 #### Technical Overview
 SafeGate leverages Redis to store client request frequency, enabling dynamic rate-limiting. It features security hardening via Helmet to enforce headers such as Content Security Policy, HSTS, and X-Content-Type-Options.
@@ -115,7 +115,7 @@ An optimization engine designed to evaluate index structures and execution strat
 | **Performance** | Achieved up to 65% query response enhancement through custom index mapping |
 | **Security** | Hardened parameterized queries to neutralize SQL Injection vulnerabilities |
 | **Impact** | Models heavy transaction throughput to evaluate index effectiveness and page reads |
-| **Repository** | [QueryCraft PG](https://github.com/pratyaksh2346/querycraft-pg) |
+| **Repository** | [QueryCraft PG](https://github.com/PratyakshVaish/querycraft-pg) |
 
 #### Technical Overview
 QueryCraft parses query execution plans using `EXPLAIN ANALYZE` commands, providing automated recommendations on single-column, composite, and partial indexing. It ensures ACID compliance while optimizing schema structures for modern applications.
@@ -186,11 +186,11 @@ Architected and developed modern full-stack web applications, emphasizing backen
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyaksh2346&show_icons=true&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyakshVaish&show_icons=true&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratyaksh2346&theme=radical&background=0D0B21&ring=C084FC&fire=C084FC&sideYellow=E2E8F0&sidePercentM=E2E8F0&stroke=4C1D95" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyakshVaish&theme=radical&background=0D0B21&ring=C084FC&fire=C084FC&sideYellow=E2E8F0&sidePercentM=E2E8F0&stroke=4C1D95" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyaksh2346&layout=compact&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshVaish&layout=compact&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95" alt="Top Languages" />
 </p>
 
 ---
@@ -198,7 +198,7 @@ Architected and developed modern full-stack web applications, emphasizing backen
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=pratyaksh2346&theme=dracula&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.herokuapp.com/?username=PratyakshVaish&theme=dracula&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -206,7 +206,7 @@ Architected and developed modern full-stack web applications, emphasizing backen
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratyaksh2346&bg_color=0D0B21&color=C084FC&line=C084FC&point=E2E8F0&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyakshVaish&bg_color=0D0B21&color=C084FC&line=C084FC&point=E2E8F0&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -214,7 +214,7 @@ Architected and developed modern full-stack web applications, emphasizing backen
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pratyaksh2346/pratyaksh2346/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PratyakshVaish/PratyakshVaish/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -235,8 +235,8 @@ open_to: "SDE Internships, Backend Engineering roles, Open-Source collaboration"
 <p align="center">
   <a href="mailto:pratyaksh2346@gmail.com"><img src="https://img.shields.io/badge/Gmail-pratyaksh2346%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/pratyaksh-vaish"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/pratyaksh2346"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/pratyaksh2346"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/PratyakshVaish"><img src="https://img.shields.io/badge/Portfolio-Explore-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
