@@ -43,8 +43,6 @@
 
 ---
 
-## 🏁 Footer
-
 <p align="center">
   <i>"Security is not a product, but a process." — Bruce Schneier</i>
 </p>
