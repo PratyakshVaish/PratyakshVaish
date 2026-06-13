@@ -38,7 +38,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PratyakshVaish/PratyakshVaish/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PratyakshVaish/PratyakshVaish/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -50,5 +50,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer&theme=dark" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" alt="Footer Banner" />
 </p>
