@@ -18,11 +18,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratyakshVaish&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratyakshVaish&show_icons=true&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyakshVaish&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyakshVaish&theme=radical&background=0D0B21&ring=C084FC&fire=C084FC&sideYellow=E2E8F0&sidePercentM=E2E8F0&stroke=4C1D95" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshVaish&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshVaish&layout=compact&bg_color=0D0B21&title_color=C084FC&text_color=E2E8F0&icon_color=C084FC&border_color=4C1D95" alt="Top Languages" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyakshVaish&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratyakshVaish&bg_color=0D0B21&color=C084FC&line=C084FC&point=E2E8F0&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
