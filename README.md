@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress.;Exploring+the+World+of+Cybersecurity.;Building+Modern+Digital+Experiences."/>
 
 </div>
-
 ---
 ##  About Me
 
