@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6C63FF&text=Pratyaksh%20Vaish&fontColor=FFFFFF&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6366F1,100:8B5CF6&text=Pratyaksh%20Vaish&fontColor=F8FAFC&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress.;Exploring+the+World+of+Cybersecurity.;Building+Modern+Digital+Experiences."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress.;Exploring+the+World+of+Cybersecurity.;Building+Modern+Digital+Experiences."/>
 
 </div>
 
