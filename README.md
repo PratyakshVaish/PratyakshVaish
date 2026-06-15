@@ -1,4 +1,26 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6C63FF&text=Pratyaksh%20Vaish&fontColor=FFFFFF&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress.;Exploring+the+World+of+Cybersecurity.;Building+Modern+Digital+Experiences."/>
+
+<h3>
+Code. Create. Innovate. | Full Stack Developer in Progress Exploring the World of Cybersecurity
+</h3>
+
+<p>
+Passionate developer focused on creating scalable web applications, exploring security principles, and continuously learning modern technologies.
+</p>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=PratyakshVaish&style=for-the-badge&color=6C63FF"/>
+<img src="https://img.shields.io/github/followers/PratyakshVaish?style=for-the-badge&color=6C63FF"/>
+<img src="https://img.shields.io/github/stars/PratyakshVaish?style=for-the-badge&color=6C63FF"/>
+</p>
+
+</div>
+
+---
 ##  About Me
 
  Passionate about building modern and scalable web applications.
