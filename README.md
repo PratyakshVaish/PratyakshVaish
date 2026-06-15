@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6366F1,100:8B5CF6&text=Pratyaksh%20Vaish&fontColor=F8FAFC&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1F6FEB,100:58A6FF&text=Pratyaksh%20Vaish&fontColor=F8FAFC&fontSize=50&fontAlignY=40&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=26&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=900&lines=Code.+Create.+Innovate.;Full+Stack+Developer+in+Progress.;Exploring+the+World+of+Cybersecurity.;Building+Modern+Digital+Experiences."/>
 
 </div>
----
+
+
 ##  About Me
 
  Passionate about building modern and scalable web applications.
@@ -33,6 +34,23 @@
 </p>
 
 ---
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:pratyaksh2346@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/pratyaksh-vaish-48977524b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/PratyakshVaish">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" />
+  </a>
+</p>
+
+---
 
 ## 📈 Contribution Activity
 
@@ -55,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer" alt="Footer Banner" />
 </p>
